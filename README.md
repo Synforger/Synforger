@@ -22,4 +22,4 @@ and run them daily as my own infrastructure.
 
 Interests: reinforcement learning, embodied agents, and the cyberpunk futures they lead to.
 
-Contact: synforge.dev@gmail.com
+Contact: DM on [X](https://x.com/synforger)
