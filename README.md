@@ -1,4 +1,4 @@
-# syn
+# syn！
 
 **Forging long-lived agents.**
 
