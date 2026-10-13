@@ -9,7 +9,7 @@ and run them daily as my own infrastructure.
 
 - [agent-template](https://github.com/Synforger/agent-template) — scaffold for long-lived Claude Code agents: self-strengthening machinery, two-way base↔derivation sync
 - [guard-dispatcher](https://github.com/Synforger/guard-dispatcher) — machine-wide git hooks for anonymous AI-driven development
-- [staledocs](https://github.com/Synforger/staledocs) — deterministic code↔docs drift detection: language-agnostic, no LLM in the detection path
+- [pptx-agent-maker](https://github.com/Synforger/pptx-agent-maker) — build slide decks by declaring structure, not coordinates: a page cannot overflow, and the same page comes out the same every round
 - [claude-pwa-client](https://github.com/Synforger/claude-pwa-client) — drive Claude Code from your phone: PWA + real-PTY backend over Tailscale
 - [claude-code-statusline](https://github.com/Synforger/claude-code-statusline) — rate limits & context usage at a glance
 - [personal-template](https://github.com/Synforger/personal-template) — language-neutral quality template for public personal repos
